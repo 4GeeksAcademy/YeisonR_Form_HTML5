@@ -1,0 +1,49 @@
+body{
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+h1{
+  overflow: hidden;  
+  border: 2px solid gainsboro; 
+  background-color: gainsboro;
+}
+
+.bg-violet{
+    background-color: pink;
+    color: firebrick;
+    display: flex;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+    margin: 0 15px;
+}
+
+.input-formcss{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.mb-3{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: start;
+}
+
+.mb-4{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: start;  
+}
+
+.col-auto{
+    display: flex;
+    padding-top: 5px;
+    gap: 10px;                                                     
+}
+
